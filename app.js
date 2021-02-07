@@ -2,7 +2,7 @@ const daysContainer = document.querySelector(".days");
 const hoursContainer = document.querySelector(".hours");
 const minsContainer = document.querySelector(".mins");
 const secondsContainer = document.querySelector(".seconds");
-const newYears = "1 Jan 2021";
+const newYears = "1 Jan 2022";
 
 function count() {
   const newYearsDate = new Date(newYears);
